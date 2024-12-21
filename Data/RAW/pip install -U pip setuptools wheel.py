@@ -1,0 +1,1 @@
+python -m spacy download es_dep_news_trf
